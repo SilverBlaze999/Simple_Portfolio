@@ -116,9 +116,9 @@ nav li a{
     font-size: 85px;
 }
 .banner-profile-pic{
-    margin-right: 150px;
-    width: 700px;
-    height: 700px;
+    margin-right: 100px;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
     object-fit: cover; 
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
@@ -203,5 +203,11 @@ footer input[type="text"], footer input[type="email"], footer textarea {
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none;
-    font-size: large;
+    font-size: larger;
+    
+}
+.social-links {
+    
+    border: none;
+    
 }
