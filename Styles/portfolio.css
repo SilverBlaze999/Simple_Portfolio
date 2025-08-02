@@ -29,6 +29,7 @@
     border-radius: 5px;
     padding: 10px 20px;
     cursor: pointer;
+    
 }
 .section-title{
     font-size: 35px;
@@ -39,11 +40,15 @@
 .section-description { 
     font-size: 20px;
     color: dimgrey;
+    
+
 
 
 }
 .text-center {
     text-align: center;
+
+
 }
 
 
@@ -53,6 +58,7 @@
     background-repeat: no-repeat , no-repeat;
     background-position: top left, bottom right;
     background-position: 10px;
+
 
 } 
     
@@ -110,7 +116,7 @@ nav li a{
     font-size: 85px;
 }
 .banner-profile-pic{
-    margin-right: 300px;
+    margin-right: 150px;
     width: 700px;
     height: 700px;
     border-radius: 50%;
