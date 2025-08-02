@@ -1,1 +1,1 @@
-This is my first made simple portfolio.
+This is my first made sample portfolio.
